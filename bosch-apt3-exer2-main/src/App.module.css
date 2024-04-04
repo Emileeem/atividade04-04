@@ -1,0 +1,60 @@
+.corpo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 109%;
+}
+.corpozao {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80vh;
+  margin: 0 !important;  
+}
+
+.wrapBtns {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1vw;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.wrapPage {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  gap: 1vh;
+  padding: 10px;
+  background-color: rgb(47, 47, 47);
+  text-align: center;
+  z-index: 0;
+}
+
+.prodRed {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+}
+.prodGreen {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: greenyellow;
+}
+
+.bg {
+  background-color: gray;
+  border-radius: 10px;
+  margin: 2%;
+  padding: 10px;
+  width: 20%;
+}

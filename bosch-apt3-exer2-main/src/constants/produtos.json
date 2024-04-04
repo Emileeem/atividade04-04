@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",
+    "desc": "Miguel Rousseouf",
+    "value": "100.00",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg",
+    "category": "Perfume",
+    "status": "True"
+  },
+  {
+    "id": 2,
+    "name": "Colar",
+    "desc": "Jand Karno em perolas",
+    "value": "2200.00",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg",
+    "category": "Jóia",
+    "status": "False"
+  },
+  {
+    "id": 3,
+    "name": "Anel",
+    "desc": "Lindo anel feito de diamante negro",
+    "value": "52000.00",
+    "image": "https://d2d7stu5fcdz3l.cloudfront.net/Custom/Content/Products/10/72/1072152_anel-de-ouro-branco-solitario-com-diamante-negro-de-1-80-ct_m4_637049415366510363.jpg",
+    "category": "Jóia",
+    "status": "True"
+  },
+  {
+    "id": 4,
+    "name": "Brincos",
+    "desc": "Brincos de ouro branco",
+    "value": "15000.00",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsgwSSKMwVJx723hNEA7wZLMnNLIdn_TQlz5g2UUx_g&s",
+    "category": "Jóia",
+    "status": "True"
+  },
+  {
+    "id": 5,
+    "name": "Perfume Masculino",
+    "desc": "Toque másculo com cheiro amadeirado",
+    "value": "2200.00",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-masculino/perfume-masculino-importado-black-125-ml-original.jpg",
+    "category": "Perfume",
+    "status": "False" 
+  }
+]
